@@ -15,6 +15,7 @@ The repository is organized by topic to ensure readability and scalability.
 Java_Coding/
 │
 ├── DSA/
+│   ├── Sorting/
 │   ├── Arrays/
 │   ├── Strings/
 │   ├── LinkedList/
@@ -23,7 +24,6 @@ Java_Coding/
 │   ├── Trees/
 │   ├── Graphs/
 │   ├── Recursion/
-│   ├── Sorting/
 │   └── Searching/
 │
 ├── Algorithms/
@@ -39,6 +39,7 @@ Java_Coding/
 │   └── FileHandling/
 │
 └── README.md
+
 ```
 
 *(Structure may evolve as new topics are added.)*
