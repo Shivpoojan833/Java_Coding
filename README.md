@@ -14,17 +14,16 @@ The repository is organized by topic to ensure readability and scalability.
 ```
 Java_Coding/
 │
-├── DSA/
-│   ├── Sorting/
-│   ├── Arrays/
-│   ├── Strings/
-│   ├── LinkedList/
-│   ├── Stack/
-│   ├── Queue/
-│   ├── Trees/
-│   ├── Graphs/
-│   ├── Recursion/
-│   └── Searching/
+├── Sorting/
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Graphs/
+├── Recursion/
+├── Searching/
 │
 ├── Algorithms/
 │   ├── Greedy/
